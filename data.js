@@ -6,18 +6,15 @@ var q = [
 	'What is the hard, defensible part about what you do?',
 	'What do you understand that others don&#39;t?',
 	'Why isn&#39;t someone already doing this?',
-	'What worries you the most?',
-	'What obstacles will you face and how will you overcome them?',
+	'What worries you the most? What obstacles will you face and how will you overcome them?',
 	'Someone just showed us an idea like this right before you guys. I don&#39;t like it. What else do you have?',
 	'Are you open to changing your idea? ',
 	'Why will you succeed?',
 
 	// Market
-	'Who would use your product?',
-	'Do you have evidence consumers love what you do?',
-	'How do you know customers need what you’re making?',
+	'Who would use your product? Who needs what you are making?',
+	'Do you have evidence consumers love what you do? How do you know customers need what you’re making?',
 	'How big an opportunity is there?',
-	'Who needs what you are making?',
 	'Who is going to be your first paying customer?',
 
 	// Competition
@@ -26,14 +23,10 @@ var q = [
 	'What competition do you fear most?',
 
 	// Customer Acquisition / Research
-	'How are you meeting customers?',
-	'How will you get users?',
+	'How are you meeting customers? How are you understanding customer needs?',
+	'How will you get users? / What is your distribution strategy?',
 	'How much does customer acquisition cost?',
-	'How are you understanding customer needs?',
-	'How will customers and/or users find out about you?',
 	'What resistance will they have to trying you and how will you overcome it?',
-	'Where do new users come from?',
-	'What is your distribution strategy?',
 	'What makes new users try you?',
 
 	// Future
