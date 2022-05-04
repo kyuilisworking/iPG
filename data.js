@@ -10,6 +10,7 @@ var q = [
 	'Someone just showed us an idea like this right before you guys. I don&#39;t like it. What else do you have?',
 	'Are you open to changing your idea? ',
 	'Why will you succeed?',
+	'What is the user experience like?'
 
 	// Market
 	'Who would use your product? Who needs what you are making?',
