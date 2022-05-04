@@ -19,7 +19,7 @@ var q = [
 	'Who is going to be your first paying customer?',
 
 	// Competition
-	'What is the competition? Who might compete with you?',
+	'What is the competition?',
 	'Who might become competitors?',
 	'What competition do you fear most?',
 
